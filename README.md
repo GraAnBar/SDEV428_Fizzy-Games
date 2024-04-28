@@ -11,8 +11,7 @@ The name of the group will be “Fizzy Games”. It is simple but it is a fittin
 We have decided that the best way to communicate for this project is through Discord. We will be meeting together in discord calls and we will share each other’s process in both a discord call and the channels.
 
 **GitHub Repository:**
-Link to Github Repository: https://github.com/BBadger8/Fizzy-Games
-**An alternate link will be this for now (Use this til things have changed):** https://github.com/GraAnBar/SDEV428_Fizzy-Games.git
+Link to Github Repository: https://github.com/GraAnBar/SDEV428_Fizzy-Games.git
 
 
 **The Game We Would Like to Make:**
